@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ruhid Mirzayev.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Machine Learning Techniques.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me by email: ruhid.mirzayev@gmail.com or call at +1(639)998-8644
